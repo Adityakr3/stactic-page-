@@ -43,7 +43,7 @@ nav {
   display: flex !important;
   position: fixed;
   z-index: 10;
-  background: rgba(255, 255, 255, 0.115);
+  background: rgba(255, 255, 255, 0.515);
   border-radius: 4px;
   box-shadow: 0 4px 30px rgb(0 0 0 / 10%);
   backdrop-filter: blur(5px);
@@ -234,7 +234,7 @@ section p {
   color: var(--black);
   top: 30%;
   left: 5%;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(133, 48, 39, 0.493);
   border-radius: 16px;
   box-shadow: 0 4px 30px rgb(0 0 0 / 10%);
   backdrop-filter: blur(5px);
