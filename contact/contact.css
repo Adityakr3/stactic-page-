@@ -4,14 +4,13 @@
     --white: #FFFFFF;
     --sky: #E7ECEB;
     --black: #212121;
-    --deepblue: #000641;
+    --deepblue: #00084e;
   }
 
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /* color: #E7ECEB; */
     font-family: sans-serif;
     letter-spacing: 1px;
     font-weight: 300;
@@ -192,7 +191,6 @@ body{
 }
 .teamcrd > .teamper:hover{
   box-shadow: 1px 8px 20px grey;
-  /* -webkit-transition:  box-shadow .15s ease-in; */
 }
 
 #footer{
@@ -203,11 +201,6 @@ body{
     border-top-color: rgb(126, 126, 126);
     z-index: 9;
     position: relative;
-    /* display: grid;
-    grid-template-rows: auto 1fr auto;
-    font-size: 14px;
-    background-color: #f4f4f4;
-    align-items: start; */
 }
 .footer__addr>img{
     width: 200px;
